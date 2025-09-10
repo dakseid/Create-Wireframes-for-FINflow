@@ -1,7 +1,7 @@
 
-  # Create Wireframes for FINflow
+# Create Wireframes for FINflow
 
-  ## Running the code
+## Running the code
 
   Run `npm i` to install the dependencies.
 
